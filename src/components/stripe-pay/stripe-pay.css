@@ -1,0 +1,7 @@
+a {
+    font-family: var(--stripe-pay-font-family, 'Times New Roman');
+    font-size: var(--stripe-pay-font-size, 16px);
+    font-weight: var(--stripe-pay-font-weight, normal);
+    color: var(--stripe-pay-color, blue);
+    text-decoration: var(--stripe-pay-decoration, underline);
+}
